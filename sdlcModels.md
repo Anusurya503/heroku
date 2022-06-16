@@ -47,6 +47,7 @@ Extreme Programming (XP) is an Agile framework focused on project flexibility an
 
 ![xp](./images/XP.png)
 
+
 ## DevOps
 
 DevOps brings deployment and operation of the software fully into the Agile development process in the same way Agile brought testing and business analysis into software development. Ultimately, the team is empowered to be self-sufficient and take ownership of software development, shipping, and support. They use Continuous Delivery (CD) for frequent releases and to maintain a well-tested and high-quality codebase.
