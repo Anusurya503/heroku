@@ -21,6 +21,7 @@ With the Iterative Model, only the major requirements are known from the beginni
 
 ![iterative](./images/Iterative-model.png)
 
+
 ## AGILE
 
 Agile is the mainstream methodology used in modern software development, and expands its influence beyond coding into many aspects of product development, from ideation to customer experience.
